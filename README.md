@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Itelios Frontend Challenge
 
 > No projeto foram utilizados os frameworks Vue.js e UI Quasar framework
